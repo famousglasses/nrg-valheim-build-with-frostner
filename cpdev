@@ -1,0 +1,8 @@
+#!/bin/sh
+r2plus=~/.config/r2modmanPlus-local
+profiles=$r2plus/Valheim/profiles
+dev=$profiles/Dev/BepInEx
+bwf=$dev/plugins/Solykos-BuildWithFrostner
+mkdir $bwf
+cp -r BuildWithFrostner.dll config manifest.json icon.png $bwf/
+

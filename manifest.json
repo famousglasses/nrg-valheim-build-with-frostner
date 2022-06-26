@@ -1,0 +1,10 @@
+{
+	"name": "BuildWithFrostner",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/famousglasses/nrg-valheim-build-with-frostner",
+	"description": "Allows you to use Frostner as a build hammer",
+	"dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1900",
+		"ValheimModding-Jotunn-2.6.10"
+	]
+}
